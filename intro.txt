@@ -1,3 +1,4 @@
 My name is Ekta Priya
 I am learning Git
 Git helps in version control
+Learning git is interesting 
